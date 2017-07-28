@@ -1,5 +1,7 @@
 package gitest;
 
-public class TestClass {
+import java.io.Serializable;
+
+public class TestClass implements Serializable{
 
 }
