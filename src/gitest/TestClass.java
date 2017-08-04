@@ -3,7 +3,9 @@ package gitest;
 
 import java.util.ArrayList;
 
-public class TestClass extends ArrayList{ //kwongiho
+
+public class TestClass extends ArrayList{	//choiseonghyuk
+
 
 
 }
